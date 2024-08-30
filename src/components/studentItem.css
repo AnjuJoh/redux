@@ -1,0 +1,46 @@
+/* StudentItem.css */
+.student-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    list-style: none;
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.student-name {
+    font-weight: bold;
+    font-size: 18px;
+    color: #333;
+    flex: 1; /* Allow the name to take up more space */
+}
+
+.student-email, .student-dob, .student-age {
+    font-size: 16px;
+    color: #777;
+    flex: 1; /* Distribute space equally among these items */
+    text-align: center; /* Center the text */
+}
+
+.actions {
+    display: flex;
+    gap: 10px;
+    flex: 0.5; /* Make the edit button area take less space */
+    justify-content: flex-end;
+}
+
+.edit-button {
+    padding: 6px 12px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.edit-button:hover {
+    background-color: #0056b3;
+}

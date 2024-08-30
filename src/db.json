@@ -1,0 +1,89 @@
+{
+  "students": [
+    {
+      "id": "1724939488752",
+      "name": "Deepthi",
+      "email": "deepthi@gmail.com",
+      "dob": "2024-08-31",
+      "age": "23"
+    },
+    {
+      "id": "1724939951353",
+      "name": "Anju John",
+      "email": "anjujohn@gmail.com"
+    },
+    {
+      "id": "1724940988992",
+      "name": "Meera",
+      "email": "Meera@gmail.com"
+    },
+    {
+      "id": "1724955978400",
+      "name": "dddddddddd",
+      "email": "anjujohn206@gmail.com",
+      "dob": "2024-08-31",
+      "age": "23"
+    },
+    {
+      "id": "1724956763813",
+      "name": "Anjuuuzzz",
+      "email": "a@g",
+      "dob": "2024-08-31",
+      "age": "45"
+    },
+    {
+      "id": "1724956934270",
+      "name": "anj",
+      "email": "snju@gmailcom"
+    },
+    {
+      "id": "1724957129920",
+      "name": "Sushama",
+      "email": "sushama@gmail.com",
+      "dob": "2024-08-30",
+      "age": "34"
+    },
+    {
+      "id": "1724958572161",
+      "name": "Ann",
+      "email": "ann@gmail.com",
+      "dob": "2024-08-31",
+      "age": "25"
+    },
+    {
+      "id": "1725004521757",
+      "name": "Meera",
+      "email": "Meera@gmail.com",
+      "dob": "2024-08-31",
+      "age": "34"
+    },
+    {
+      "id": 1725021570019,
+      "name": "Ann",
+      "email": "ann@gmail.com",
+      "dob": "2024-08-31",
+      "age": "34"
+    },
+    {
+      "id": 1725021732252,
+      "name": "dddddddddd",
+      "email": "anjujohn206@gmail.com",
+      "dob": "2024-08-31",
+      "age": "45"
+    },
+    {
+      "id": 1725021800757,
+      "name": "aafg",
+      "email": "anju@gmail.com",
+      "dob": "2024-08-31",
+      "age": "31"
+    },
+    {
+      "id": 1725022586131,
+      "name": "sdd",
+      "email": "S@gmail.com",
+      "dob": "2024-08-30",
+      "age": "23"
+    }
+  ]
+}
